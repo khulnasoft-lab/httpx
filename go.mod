@@ -46,7 +46,7 @@ require (
 	github.com/khulnasoft-lab/ratelimit v0.0.10
 	github.com/khulnasoft-lab/rawhttp v0.1.20
 	github.com/khulnasoft-lab/retryablehttp-go v1.0.21
-	github.com/khulnasoft-lab/tlsx v0.0.0-20231101045244-b306c2a45866
+	github.com/khulnasoft-lab/tlsx v0.0.0-20231217005029-4f12136efe78
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/khulnasoft-lab/wappalyzergo v0.0.0-20231101072643-4ac589713361
 	github.com/mfonda/simhash v0.0.0-20151007195837-79f94a1100d6
