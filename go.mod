@@ -17,8 +17,8 @@ require (
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rs/xid v1.5.0
 	go.etcd.io/bbolt v1.3.7 // indirect
-	golang.org/x/net v0.18.0
-	golang.org/x/sys v0.14.0 // indirect
+	golang.org/x/net v0.19.0
+	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0
 )
 
@@ -48,7 +48,7 @@ require (
 	github.com/khulnasoft-lab/retryablehttp-go v1.0.21
 	github.com/khulnasoft-lab/tlsx v0.0.0-20231101045244-b306c2a45866
 	github.com/khulnasoft-lab/utils v0.0.47
-	github.com/khulnasoft-lab/wappalyzergo v0.0.0-20231101072643-4ac589713361
+	github.com/khulnasoft-lab/wappalyzergo v0.0.0-20240105115313-0f1cce0ae2fb
 	github.com/mfonda/simhash v0.0.0-20151007195837-79f94a1100d6
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/stretchr/testify v1.8.4
@@ -147,7 +147,7 @@ require (
 	github.com/yuin/goldmark-emoji v1.0.1 // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	github.com/zmap/rc2 v0.0.0-20190804163417-abaa70531248 // indirect
-	golang.org/x/crypto v0.15.0 // indirect
+	golang.org/x/crypto v0.16.0 // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/oauth2 v0.13.0 // indirect
 	golang.org/x/tools v0.15.0 // indirect
