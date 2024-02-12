@@ -7,7 +7,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/corona10/goimagehash v1.1.0
 	github.com/corpix/uarand v0.2.0
-	github.com/go-faker/faker/v4 v4.2.0
+	github.com/go-faker/faker/v4 v4.3.0
 	github.com/go-rod/rod v0.114.6
 	github.com/hbakhtiyor/strsim v0.0.0-20190107154042-4d2bbb273edf
 	github.com/hdm/jarm-go v0.0.7
