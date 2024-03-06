@@ -8,7 +8,7 @@ require (
 	github.com/corona10/goimagehash v1.1.0
 	github.com/corpix/uarand v0.2.0
 	github.com/go-faker/faker/v4 v4.2.0
-	github.com/go-rod/rod v0.114.6
+	github.com/go-rod/rod v0.114.8
 	github.com/hbakhtiyor/strsim v0.0.0-20190107154042-4d2bbb273edf
 	github.com/hdm/jarm-go v0.0.7
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056
